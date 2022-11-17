@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\SystemMonitor\SystemMonitor\bin\x64\Release\SystemMonitor.exe.config
+C:\Users\Admin\source\repos\SystemMonitor\SystemMonitor\bin\x64\Release\SystemMonitor.exe
+C:\Users\Admin\source\repos\SystemMonitor\SystemMonitor\bin\x64\Release\SystemMonitor.pdb
+C:\Users\Admin\source\repos\SystemMonitor\SystemMonitor\bin\x64\Release\MetroFramework.Design.dll
+C:\Users\Admin\source\repos\SystemMonitor\SystemMonitor\bin\x64\Release\MetroFramework.dll
+C:\Users\Admin\source\repos\SystemMonitor\SystemMonitor\bin\x64\Release\MetroFramework.Fonts.dll
+C:\Users\Admin\source\repos\SystemMonitor\SystemMonitor\obj\x64\Release\SystemMonitor.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SystemMonitor\SystemMonitor\obj\x64\Release\SystemMonitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\SystemMonitor\SystemMonitor\obj\x64\Release\SystemMonitor.Form1.resources
+C:\Users\Admin\source\repos\SystemMonitor\SystemMonitor\obj\x64\Release\SystemMonitor.Properties.Resources.resources
+C:\Users\Admin\source\repos\SystemMonitor\SystemMonitor\obj\x64\Release\SystemMonitor.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SystemMonitor\SystemMonitor\obj\x64\Release\SystemMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SystemMonitor\SystemMonitor\obj\x64\Release\SystemMonitor.csproj.CopyComplete
+C:\Users\Admin\source\repos\SystemMonitor\SystemMonitor\obj\x64\Release\SystemMonitor.exe
+C:\Users\Admin\source\repos\SystemMonitor\SystemMonitor\obj\x64\Release\SystemMonitor.pdb
