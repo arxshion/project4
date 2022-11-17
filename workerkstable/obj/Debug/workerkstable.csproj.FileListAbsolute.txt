@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\workerkstable\bin\Debug\workerkstable.exe.config
+C:\Users\Admin\source\repos\workerkstable\bin\Debug\workerkstable.exe
+C:\Users\Admin\source\repos\workerkstable\bin\Debug\workerkstable.pdb
+C:\Users\Admin\source\repos\workerkstable\obj\Debug\workerkstable.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\workerkstable\obj\Debug\workerkstable.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\workerkstable\obj\Debug\workerkstable.form1.resources
+C:\Users\Admin\source\repos\workerkstable\obj\Debug\workerkstable.Properties.Resources.resources
+C:\Users\Admin\source\repos\workerkstable\obj\Debug\workerkstable.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\workerkstable\obj\Debug\workerkstable.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\workerkstable\obj\Debug\workerkstable.exe
+C:\Users\Admin\source\repos\workerkstable\obj\Debug\workerkstable.pdb
